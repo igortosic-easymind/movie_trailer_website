@@ -19,3 +19,5 @@ if you are familliar with npm - follow this:
 
     Then simply run http-server in any of your project directories:
     Eg. d:\my_project> http-server
+    
+4. Also you can start entertainment_center.py by IDLE(Python GUI) and run it
